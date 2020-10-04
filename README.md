@@ -19,4 +19,12 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 
 Mock-Up:
+
 ![](images/Horiseon%20Screenshot.png)
+
+
+Work done:
+
+- Refactored the code using header, section, and footer html tags to make the code semantic. 
+- Added an ID to allow the Nav bar to work fully.
+- Added alt text to images for accessibility purposes
