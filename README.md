@@ -19,4 +19,4 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 
 Mock-Up:
-![](images/Horiseon\ Screenshot/)
+![](images/Horiseon%20Screenshot.png)
